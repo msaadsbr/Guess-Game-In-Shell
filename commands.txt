@@ -1,0 +1,2 @@
+chmod +x Game.sh
+./Game.sh
