@@ -10,7 +10,7 @@ Welcome to the **Guess A Number Game**, a simple and fun command-line game where
 3. After each guess, you’ll receive hints to guide you:
    - If your guess is too low, the game will let you know whether it's **"Too Low"** or just **"Low"**.
    - If your guess is too high, the game will respond with **"Too High"** or **"High"**.
-4. If you guess the correct number, you win! 🎉
+4. If you guess the correct number, you win! 
 5. If you run out of attempts, the game will reveal the correct number, and you lose. 😢
 
 ---
